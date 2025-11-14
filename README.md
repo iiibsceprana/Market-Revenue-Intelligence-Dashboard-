@@ -34,7 +34,7 @@ Percentage of Total Orders Delivered
 
 ## Dashboard
 
-![Sales Dashboard](https://github.com/user-attachments/assets/0f850944-801a-4c95-ac26-dc470d29c99b)
+![Sales Dashboard](https://github.com/user-attachments/assets/ad200833-b6ee-4e89-a926-1298a019a6f5)
 
 ## Project Insight
 Laptop and Mobile categories contributed the highest portion of the total revenue.
